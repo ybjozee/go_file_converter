@@ -1,0 +1,47 @@
+{{define "body"}}
+<div class="container-fluid" style="margin: 'auto'; padding: 10%">
+  {{ $length := len .Data }} {{ if eq $length 0 }}
+  <div>
+    <h5>No conversions yet</h5>
+    <p class="mb-3 font-normal text-gray-700 dark:text-gray-400">
+      You haven't uploaded any files for conversion yet.
+    </p>
+    <a href="/"> Get started </a>
+  </div>
+  {{ else }}
+  <table class="table table-hover table-striped table table-bordered">
+    <thead>
+      <tr>
+        <th scope="col" colspan="3">Uploaded File Details</th>
+        <th scope="col" colspan="5">Converted File Details</th>
+      </tr>
+      <tr>
+        <th scope="col">Name</th>
+        <th scope="col">Size</th>
+        <th scope="col">Format</th>
+        <th scope="col">Name</th>
+        <th scope="col">Size</th>
+        <th scope="col">Format</th>
+        <th scope="col">Conversion Date</th>
+        <th scope="col"></th>
+      </tr>
+    </thead>
+    <tbody>
+      {{range .Data}}
+      <tr>
+        <th scope="row">{{ .UploadedFileName}}</th>
+        <td>{{ .UploadedFileSize}}</td>
+        <td>{{ .UploadedFileFormat}}</td>
+        <td>{{ .NameToSaveAs}}</td>
+        <td>{{ .ConvertedFileSize}}</td>
+        <td>{{ .ConvertedFileFormat}}</td>
+        <td>{{ .ConversionDate.Value.Format "Monday January 02, 2006"}}</td>
+        <td><a href="/conversion/result/{{ .ID}}">Download</a></td>
+      </tr>
+      {{end}}
+    </tbody>
+  </table>
+  {{end}}
+</div>
+{{end}}
+

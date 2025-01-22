@@ -1,0 +1,25 @@
+{{define "body"}}
+<div class="container-fluid" style="width: 80%; margin: 'auto'; padding: 10%">
+  <form enctype="multipart/form-data" action="/convert" method="post">
+    <div class="mb-3">
+      <input class="form-control" type="file" name="file" />
+    </div>
+    <div class="mb-3">
+      <select name="outputFormat" class="form-select">
+        {{range .Data}}
+        <option {{.}}>{{.}}</option>
+        {{end}}
+      </select>
+    </div>
+    <div class="mb-3">
+      <input
+        type="text"
+        class="form-control"
+        placeholder="Name to save as"
+        name="nameToSaveAs"
+      />
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</div>
+{{end}}
