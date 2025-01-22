@@ -1,0 +1,202 @@
+[
+  {
+    "id": 21,
+    "public_id": "b39c73e1-d7b5-419d-bcbd-f99360bf2aa9",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "Access Bank Nigeria Plc",
+    "sort_code": "044",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 22,
+    "public_id": "40a34f01-1438-4a4d-ba61-836daea74b08",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "Diamond Bank Plc",
+    "sort_code": "063",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 23,
+    "public_id": "82ebeab4-6eb3-44d2-b754-37adc1ff408c",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "Ecobank Nigeria",
+    "sort_code": "050",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 24,
+    "public_id": "9c51084a-b42c-4bab-ba7b-5e4d47af1fc0",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "Enterprise Bank Plc",
+    "sort_code": "084",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 25,
+    "public_id": "8210fe4c-b0e4-470e-a5d2-b1ab41b76f81",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "Fidelity Bank Plc",
+    "sort_code": "070",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 26,
+    "public_id": "4ab37748-6c2c-4613-a228-c6d4e6d7f613",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "First Bank of Nigeria Plc",
+    "sort_code": "011",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 27,
+    "public_id": "d567f1a2-0f4b-4469-87bb-243c9e11174a",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "First City Monument Bank",
+    "sort_code": "214",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 28,
+    "public_id": "b6afe61d-7716-4543-b4a7-b4679b5caab4",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "Guaranty Trust Bank Plc",
+    "sort_code": "058",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 29,
+    "public_id": "cb7db84a-3724-4ec9-88a3-1ba8fa5d4680",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "Heritage Banking Company Ltd",
+    "sort_code": "030",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 30,
+    "public_id": "ba93d90f-34de-4078-90be-8b6929ecd6f5",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "Jaiz Bank",
+    "sort_code": "301",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 31,
+    "public_id": "64c2a935-5236-42a7-8744-c109c5d28518",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "Keystone Bank Ltd",
+    "sort_code": "082",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 32,
+    "public_id": "ab751e0b-b666-46ee-b85c-d2d24722d821",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "Mainstreet Bank Plc",
+    "sort_code": "014",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 33,
+    "public_id": "3a2be08d-da56-4b9f-bda1-b23accac7446",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "Skye Bank Plc",
+    "sort_code": "076",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 34,
+    "public_id": "a3ee05ab-0d13-42e6-a3c5-41df51e2a8db",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "Stanbic IBTC Plc",
+    "sort_code": "039",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 35,
+    "public_id": "36e0a898-120f-4a6d-a46c-fc939ed38dd6",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "Sterling Bank Plc",
+    "sort_code": "232",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 36,
+    "public_id": "c37b1dc9-c68f-4b55-93d6-35a1c78c77dc",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "Union Bank Nigeria Plc",
+    "sort_code": "032",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 37,
+    "public_id": "38dfd272-9d22-4a2e-9b07-855ccac3e77a",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "United Bank for Africa Plc",
+    "sort_code": "033",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 38,
+    "public_id": "04844177-4a3b-42e9-b201-63c156ab3fa9",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "Unity Bank Plc",
+    "sort_code": "215",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 39,
+    "public_id": "09b7852f-cae8-40d1-8089-cf4cd0b2f87a",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "WEMA Bank Plc",
+    "sort_code": "035",
+    "created_on": "2024-03-07 12:15:30"
+  },
+  {
+    "id": 40,
+    "public_id": "d7b1130c-ab59-4971-b6e6-f853b7820de9",
+    "is_deleted": 0,
+    "last_modified_on": null,
+    "deleted_on": null,
+    "name": "Zenith Bank International",
+    "sort_code": "057",
+    "created_on": "2024-03-07 12:15:30"
+  }
+]

@@ -1,5 +1,7 @@
 # File Converter Demo
-An application built using Go to convert between CSV, JSON, SQL, and XLSX
+An application built using Go to convert between CSV, JSON, SQL, and XLSX.
+
+Sample data can be found in the testData folder
 
 
 ### Technical Requirements
